@@ -66,7 +66,7 @@ Provided actionable business recommendations
 
 Clone the repository:
 
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/Karan5787/customer_behavior_analysis
 
 Install required Python libraries:
 
